@@ -1,0 +1,13 @@
+body{
+	
+}
+header{
+	background-color: #000;
+}
+
+.carousel-caption{
+	display: inline;
+	align-content: center;
+	height: 80%;
+	text-align: left;
+}
